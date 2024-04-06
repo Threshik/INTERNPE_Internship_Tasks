@@ -4,4 +4,4 @@ project(INTERNPE)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(INTERNPE main.cpp
-        task1.cpp)
+)
